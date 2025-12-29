@@ -4,6 +4,7 @@ package-lock.json
 
 # Build output
 dist
+assets
 *.local
 
 # Editor directories and files
